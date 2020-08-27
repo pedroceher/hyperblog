@@ -2,4 +2,4 @@ Esta es la historia de PC
 
 Tengo la edad de 40 
 
-Muy bien vamos aprendiendo git
+Muy bien vamos aprendiendo git con platzi
